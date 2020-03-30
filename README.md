@@ -1,2 +1,2 @@
 # cpp-projects
-there are very_simple projects which be made by c++ 
+there are very_simple projects which are made by c++ 
